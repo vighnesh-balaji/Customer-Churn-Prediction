@@ -1,6 +1,6 @@
 # Customer-Churn-Prediction
 
-We aim to accomplist the following:
+We aim to accomplish the following:
 
 Identify and visualize which factors contribute to customer churn. Build a prediction model that will perform the following:
 
